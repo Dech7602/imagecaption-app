@@ -1,0 +1,17 @@
+# Core app & UI
+streamlit==1.34.0
+matplotlib
+Pillow
+# PyTorch & torchvision
+torch>=2.0.0
+torchvision>=0.15.0
+# Image processing
+numpy
+opencv-python
+# For caption model
+spacy
+regex
+# For segmentation model
+pycocotools
+# Optional: for saving/loading vocab
+pickle-mixin
